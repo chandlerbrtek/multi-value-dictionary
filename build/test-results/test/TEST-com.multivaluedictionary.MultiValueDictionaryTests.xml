@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.multivaluedictionary.MultiValueDictionaryTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-19T01:55:33" hostname="Chandlers-MacBook-Pro.local" time="0.142">
+  <properties/>
+  <testcase name="test keys" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.134"/>
+  <testcase name="test members" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.001"/>
+  <testcase name="test add" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.0"/>
+  <testcase name="test remove" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.002"/>
+  <testcase name="test removeall" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.0"/>
+  <testcase name="test clear" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.0"/>
+  <testcase name="test keyexists" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.0"/>
+  <testcase name="test memberexists" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.0"/>
+  <testcase name="test allmembers" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.001"/>
+  <testcase name="test items" classname="com.multivaluedictionary.MultiValueDictionaryTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
